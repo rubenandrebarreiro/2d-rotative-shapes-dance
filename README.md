@@ -1,0 +1,2 @@
+# 2d-rotative-shapes-dance
+A 3rd year's project, of the BSc. degree made in FCT NOVA, in the subject of Computer Graphics and Interfaces. This project was built using HTML, CSS, JavaScript and WebGL. The application allows to visualize multiple 3D Geometric Solids, viewed by multiple projections and angles. The application allows also, see the 3D Geometric Solids in multiple colors, drawed in white Wired lines and even, painted and iluminated by custom Vertex/Fragment Shaders that the user can upload to the application, all this in the canvas of the Web Browser! 
