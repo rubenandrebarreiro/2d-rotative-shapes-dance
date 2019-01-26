@@ -12,7 +12,7 @@
 
 ***
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/screenshot-2.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/screenshot-2.jpg)
 ######  2D Rotative Shapes Dance - Screenshot #2
 
 ***
