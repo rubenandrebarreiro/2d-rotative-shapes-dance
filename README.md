@@ -60,18 +60,18 @@ You can run the application, by open the following file presented in the _root_ 
 
 Instructions (also available in the _canvas_ of the application):
 
-1) Use **_'Q'_** and **_'A'_** keys dive/emerge. Use **_click/drag/release_** in the **_canvas_** to move center point
-
-2) Choose the current **_Fractal's Set_** in use (**_Benoit Mandelbrot_** or **_Gaston Julia_**)
-
-3) Choose also the current **_Factor_** to the **_Scale_** of the current **_Fractal_** in use
+1) Click anywhere in the canvas to create a **_Rotative Shape_**
+2) Choose the current **_Shape's color_**, by adjusting the **_colors' factors_**
+3) Choose the current **_Geometric Shape_** in use
+4) Choose the option to allow **_Blur Edges_**
+5) Choose the current direction (**_Clock Direction_** or the **_opposite_**) of the **_Geometric Shape_**
 
 #### Notes (IMPORTANT)
 1) It's **_mandatory_** to have the folder called **_common_** in the local repository, because it's where are the necessary **_WebGL utilities_**, **_geometric/solid figures_** and **_other libraries_**
 
 2) It's also **_mandatory_** to have the respective application's **_JavaScript_** file in the _root_ folder of this repository
 ```
-2d-fractals-mandelbrot-julia.js
+2d-rotative-shapes-dance.js
 ```
 
 ## Built with
