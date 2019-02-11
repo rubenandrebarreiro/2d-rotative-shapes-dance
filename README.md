@@ -1,6 +1,6 @@
 # 2D Rotative Shapes Dance
 
-> A [**_3rd year's project_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_BSc. degree of Computer Sciences and Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_Computer Graphics and Interfaces_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8150). This project was built using [**_HTML_**](https://www.w3schools.com/html/), [**_CSS_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/) and [**_WebGL_**](https://get.webgl.org/). The application allows to create _multiple geometric shapes_, in _permanent rotation_, with _different colors_ and _sizes_ and, with _blur effect_ or not, by clicking in the _canvas_ of the _Web browser_! 
+> A [**_3rd year's project_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_BSc. degree of Computer Sciences and Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_Computer Graphics and Interfaces_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8150). This project was built using [**_HTML (HyperText Markup Language)_**](https://www.w3schools.com/html/), [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/) and [**_WebGL (Web Graphics Library)_**](https://get.webgl.org/). The application allows to create _multiple geometric shapes_, in _permanent rotation_, with _different colors_ and _sizes_ and, with _blur effect_ or not, by clicking in the _canvas_ of the _Web browser_! 
 
 > You can view an _online demo_, [clicking here](https://rubenandrebarreiro.github.io/projects/webgl/2d-rotative-shapes-dance/2d-rotative-shapes-dance.html)!
 
@@ -75,10 +75,10 @@ Instructions (also available in the _canvas_ of the application):
 ```
 
 ## Built with
-* [**_HTML_**](https://www.w3schools.com/html/)
-* [**_CSS_**](https://www.w3schools.com/css/)
+* [**_HTML (HyperText Markup Language)_**](https://www.w3schools.com/html/)
+* [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/)
 * [**_JavaScript_**](https://www.w3schools.com/js/)
-* [**_WebGL_**](https://get.webgl.org/)
+* [**_WebGL (Web Graphics Library)_**](https://get.webgl.org/)
 * [**_Atom_**](https://atom.io/)
 * [**_Brackets_**](http://brackets.io/)
 
@@ -89,6 +89,7 @@ Instructions (also available in the _canvas_ of the application):
 ## Contacts
 
 ### Rúben André Barreiro
+#### E-mails
 * [ruben.barreiro.92@gmail.com](mailto:ruben.barreiro.92@gmail.com)
 * [r.barreiro@campus.fct.unl.pt](mailto:r.barreiro@campus.fct.unl.pt)
 * [up201808917@fe.up.pt](mailto:up201808917@fe.up.pt)
