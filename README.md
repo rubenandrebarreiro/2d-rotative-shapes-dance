@@ -3,6 +3,8 @@
 ![https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/banner-1.jpg)
 ######  2D Rotative Shapes Dance - Banner #1
 
+***
+
 
 ## Current Status
 [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/) [![developed in](https://img.shields.io/badge/developed&nbsp;in-fct&nbsp;nova-blue.svg)](https://www.fct.unl.pt/)
