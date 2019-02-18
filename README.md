@@ -17,10 +17,10 @@
 [![software used no. 1](https://img.shields.io/badge/software-atom-gold.svg)](http://atom.io/) 
 [![software used no. 2](https://img.shields.io/badge/software-brackets-gold.svg)](http://brackets.io/) 
 
-[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=2d-rotative-shapes-dance&style=flat)](https://github.com/rubenandrebarreiro/2d-rotative-shapes-dance)
+[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=2d-rotative-shapes-dance&style=flat)](https://github.com/rubenandrebarreiro/2d-rotative-shapes-dance/stargazers)
 [![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=2d-rotative-shapes-dance&style=flat)](https://github.com/rubenandrebarreiro/2d-rotative-shapes-dance/fork)
 [![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/2d-rotative-shapes-dance/total.svg)](https://github.com/rubenandrebarreiro/2d-rotative-shapes-dance/archive/master.zip)
-[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/2d-rotative-shapes-dance/)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/2d-rotative-shapes-dance/archive/master.zip)
 
 ##### Current Progress of the Project
 
