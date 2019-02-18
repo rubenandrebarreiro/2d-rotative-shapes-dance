@@ -30,6 +30,9 @@
 ##### Current Progress of the Project
 
 [![current progress of this project](http://progressed.io/bar/100?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/2d-rotative-shapes-dance/) 
+
+##### Final Approval Grade of the Project
+
 [![grade of this project](http://progressed.io/bar/19?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/2d-rotative-shapes-dance/)
 
 
