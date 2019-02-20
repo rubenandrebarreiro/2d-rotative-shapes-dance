@@ -3,7 +3,7 @@
 ![https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/banner-1.jpg)
 ######  2D Rotative Shapes Dance - Banner #1
 
-***
+*** 
 
 
 ## Current Status
@@ -46,12 +46,12 @@
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/screenshot-1.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/screenshot-1.jpg)
 ######  2D Rotative Shapes Dance - Screenshot #1
 
 ***
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/screenshot-2.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/screenshot-2.jpg)
 ######  2D Rotative Shapes Dance - Screenshot #2
 
 ***
