@@ -3,7 +3,7 @@
 ![https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-rotative-shapes-dance/master/imgs/JPGs/banner-1.jpg)
 ######  2D Rotative Shapes Dance - Banner #1
 
-***
+*** 
 
 
 ## Current Status
